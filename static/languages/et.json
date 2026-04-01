@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kas valgusreostus on Euroopas tõusuteel?",
+  "subtitle": "Heledus on Euroopa Liidus ajavahemikul 2014/15–2020/21 suurenenud koguni 11,6%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Sellel kaardil olevad arvud on heleduse suurenemise või vähenemise kohta esitatud NUTS3 piirkonna arvude ligikaudsed väärtused.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "EIONET (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
