@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy zanieczyszczenie światłem wzrasta w Europie?",
+  "subtitle": "W Unii Europejskiej między okresami 2014/15 i 2020/21 jasność wzrosła aż o 11,6%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Liczby na tej mapie stanowią przybliżenie liczb dotyczących wzrostu lub spadku jasności dla regionu NUTS3.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "EIONET (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
