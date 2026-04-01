@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "It-tniġġis tad-dawl qed jiżdied fl-Ewropa?",
+  "subtitle": "Il-luminożità żdiedet sa 11.6% fl-Unjoni Ewropea bejn il-perjodi tal-2014/15 u l-2020/21.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri f'din il-mappa huma approssimazzjoni taċ-ċifri tar-reġjun NUTS3 għal żieda jew tnaqqis fil-luminożità.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "EIONET (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
