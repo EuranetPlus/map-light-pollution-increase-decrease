@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Ökar ljusföroreningarna i Europa?",
+  "subtitle": "Ljusstyrkan har ökat med så mycket som 11,6 % i Europeiska unionen mellan perioderna 2014/15 och 2020/21.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna på den här kartan är en approximation av NUTS3-regionens siffror för en ökning eller minskning av ljusstyrkan.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "EIONET (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
